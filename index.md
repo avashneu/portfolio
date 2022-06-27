@@ -57,7 +57,7 @@ I'm a Data Science Master's student from University at Buffalo graduating in Dec
 - Developed ‘Split it out’, a bill sharing app using OCR for bill information extraction, NLP for determining total amount and expense category.
 
 ## Image Processing based Traffic Management System
-*<ins>Category</ins>: Image Processing*</br>
+*<ins>Category</ins>: Image Processing*<br/>
 *<ins>Tools</ins>: Python, OpenCV*
 
 - Architected traffic density management system with OpenCV for image processing and managed traffic lights using Raspberry pi.

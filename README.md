@@ -1,2 +1,1 @@
-# Avash
-Data Science Project Portfolio
+# Project Portfolio

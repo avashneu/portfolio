@@ -2,10 +2,10 @@
 I'm a Data Science Master's student from University at Buffalo graduating in December 2022. I'm actively looking for full-time job opportunities.
 
 # Skills
-- Programming Languages: Python, R, SQL, MATLAB
-- Database, Analytics & Visualization: MS SQL, MySQL, PostgreSQL, SQLite, Excel, Tableau
-- Data Science and Machine Learning: Numpy, Pandas, Matplotlib, Seaborn, Pytorch, Scikit-Learn, TensorFlow, Keras, OpenCV, RDKit, RShiny Dashboard
-- Version Control: Git
+- **Programming Languages:** Python, R, SQL, MATLAB
+- **Database, Analytics & Visualization:** MS SQL, MySQL, PostgreSQL, SQLite, Excel, Tableau
+- **Data Science and Machine Learning:** Numpy, Pandas, Matplotlib, Seaborn, Pytorch, Scikit-Learn, TensorFlow, Keras, OpenCV, RDKit, RShiny Dashboard
+- **Version Control:** Git
 
 ### Projects
 
@@ -19,8 +19,5 @@ I'm a Data Science Master's student from University at Buffalo graduating in Dec
 [Link](url) and ![Image](src)
 ```
 
-[Geometric Deep Learning Methods with Deep Chemistry for Drug Pair Interactions](https://github.com/avashneu/cse676project)
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[**Geometric Deep Learning Methods with Deep Chemistry for Drug Pair Interactions**](https://github.com/avashneu/cse676project)
+*Keywords: Deep Learning, Autoencoders, Classification*

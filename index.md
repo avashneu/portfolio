@@ -29,11 +29,11 @@ I'm a Data Science Master's student from University at Buffalo graduating in Dec
 
 - Developed a classifier model to solve drug-drug pair interaction outcomes from SMILES(Simplified Molecular Input Line Entry System) representation of drugs. 
 - Converted the SMILES structure to molecular structure image in a feature space of 270,000, built an autoencoder network to capture and preserve important features in a 90% reduced dimensional latent space for efficient computation.
-•	Performed multiclass classification to predict an outcome from 86 different interaction types  a generalizable multiclass classification model with accuracy of 80%.
+- Performed multiclass classification to predict an outcome from 86 different interaction types  a generalizable multiclass classification model with accuracy of 80%.
 
 ![DDI_Image](DDI.jpg)
 
-## [Ride Hailing Apps(Uber & Lyft Price Prediction](https://github.com/avashneu/Ride-Hailing-Apps-Price-Prediction)
+## [Ride Hailing Apps(Uber & Lyft) Price Prediction](https://github.com/avashneu/Ride-Hailing-Apps-Price-Prediction)
 *<ins>Category</ins>: Data Visualization, Data Analysis, Neural Network, Database Normalization*<br/>
 *<ins>Tools</ins>: Python, SQLite3, Numpy, Pandas, Matplotlib, Seaborn, Keras, Scikit-Learn*
 - Created normalized database in SQLite consisting of 5 tables through Python from dataset of 600k+ samples.

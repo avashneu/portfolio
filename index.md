@@ -16,7 +16,7 @@ I'm a Data Science Master's student from University at Buffalo graduating in Dec
 [*GitHub Link*](https://github.com/avashneu/Web-Traffic-Analysis-and-Forecasting---Time-Series)
 -  Analyzed and predicted the future traffic for multiple time series of Wiki pages.
 
-![Web_Traffic_Image](https://github.com/avashneu/Avash_Portfolio/blob/gh-pages/Web%20Traffic.jpg)
+![Web_Traffic_Image](Web_Traffic.jpg)
 
 
 ## [Geometric Deep Learning Methods with Deep Chemistry for Drug Pair Interactions](https://github.com/avashneu/cse676project)

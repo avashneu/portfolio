@@ -24,7 +24,7 @@ I'm a Data Science Master's student from University at Buffalo graduating in Dec
 
 
 ## [Geometric Deep Learning Methods with Deep Chemistry for Drug Pair Interactions](https://github.com/avashneu/cse676project)
-*<ins>Category</ins>: Deep Learning, Autoencoders, Classification*</br>
+*<ins>Category</ins>: Deep Learning, Autoencoders, Classification*<br/>
 *<ins>Tools</ins>: Python, Pytorch, RDKit*
 
 - Developed a classifier model to solve drug-drug pair interaction outcomes from SMILES(Simplified Molecular Input Line Entry System) representation of drugs. 
@@ -34,7 +34,7 @@ I'm a Data Science Master's student from University at Buffalo graduating in Dec
 ![DDI_Image](DDI.jpg)
 
 ## [Ride Hailing Apps(Uber & Lyft Price Prediction](https://github.com/avashneu/Ride-Hailing-Apps-Price-Prediction)
-*<ins>Category</ins>: Data Visualization, Data Analysis, Neural Network, Database Normalization*</br>
+*<ins>Category</ins>: Data Visualization, Data Analysis, Neural Network, Database Normalization*<br/>
 *<ins>Tools</ins>: Python, SQLite3, Numpy, Pandas, Matplotlib, Seaborn, Keras, Scikit-Learn*
 - Created normalized database in SQLite consisting of 5 tables through Python from dataset of 600k+ samples.
 - Performed exploratory data analysis and data visualization using normalized database.
@@ -42,7 +42,7 @@ I'm a Data Science Master's student from University at Buffalo graduating in Dec
 ![Ride](Ride.jpg)
 
 ## [Housing Price Prediction](https://github.com/avashneu/Housing-Price-Prediction)
-*<ins>Category</ins>: Multiple Linear Regression, Feature Selection, Clustering, Variable transformation*</br>
+*<ins>Category</ins>: Multiple Linear Regression, Feature Selection, Clustering, Variable transformation*<br/>
 *<ins>Tools</ins>: R*
 
 - Performed exploratory data analysis, transformed skewed variables, pre-processed data by employing data wrangling techniques, and selected important features out of 81 features leveraging stepwise selection method.
@@ -51,7 +51,7 @@ I'm a Data Science Master's student from University at Buffalo graduating in Dec
 ![House](Housing.jpg)
 
 ## [Split It Out](https://github.com/avashneu/splititout)
-*<ins>Category</ins>: OCR(Optical Character Recognition), Web App*</br>
+*<ins>Category</ins>: OCR(Optical Character Recognition), Web App*<br/>
 *<ins>Tools</ins>: Python, OpenCV, Tesseract*
 
 - Developed ‘Split it out’, a bill sharing app using OCR for bill information extraction, NLP for determining total amount and expense category.

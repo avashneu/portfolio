@@ -1,4 +1,4 @@
-### Contact
+## Contact Me
 [Email Me](mailto::avash.neupane01@gmail.com) | [LinkedIn: Let's Connect](https://www.linkedin.com/in/avash-neupane/)
 
 ## Skills

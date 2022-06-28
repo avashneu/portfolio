@@ -1,5 +1,3 @@
-# Avash Neupane 
-
 # Skills
 - **Programming Languages:** Python, R, SQL, MATLAB
 - **Database, Analytics & Visualization:** MS SQL, MySQL, PostgreSQL, SQLite, Excel, Tableau

@@ -1,13 +1,13 @@
 ### Contact
 [Email Me](mailto::avash.neupane01@gmail.com) | [LinkedIn: Let's Connect](https://www.linkedin.com/in/avash-neupane/)
 
-# Skills
+## Skills
 - **Programming Languages:** Python, R, SQL, MATLAB
 - **Database, Analytics & Visualization:** MS SQL, MySQL, PostgreSQL, SQLite, Excel, Tableau
 - **Data Science and Machine Learning:** Numpy, Pandas, Matplotlib, Seaborn, Pytorch, Scikit-Learn, TensorFlow, Keras, OpenCV, RDKit, RShiny Dashboard
 - **Version Control:** Git
 
-# Projects
+## Projects
 
 ## [Web Traffic Analysis and Forecasting](https://github.com/avashneu/Web-Traffic-Analysis-and-Forecasting---Time-Series)
 *<ins>Category</ins>: Time Series Analysis, Data Visualization, Forecasting, ARIMA, R, RShiny, Feature Engineering, Dashboard*<br/>

@@ -1,7 +1,3 @@
-# About Me
-I'm a Data Science Master's student from University at Buffalo graduating in December 2022. I'm actively looking for full-time job opportunities.</br>
-[View Resume](Avash_Resume.pdf)
-
 # Skills
 - **Programming Languages:** Python, R, SQL, MATLAB
 - **Database, Analytics & Visualization:** MS SQL, MySQL, PostgreSQL, SQLite, Excel, Tableau

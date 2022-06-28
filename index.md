@@ -1,6 +1,5 @@
 ### Contact
-[Email Me](avash.neupane01@gmail.com <br/>)
-[LinkedIn: Let's Connect](https://www.linkedin.com/in/avash-neupane/)
+[Email Me](avash.neupane01@gmail.com) | [LinkedIn: Let's Connect](https://www.linkedin.com/in/avash-neupane/)
 
 # Skills
 - **Programming Languages:** Python, R, SQL, MATLAB

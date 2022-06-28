@@ -10,9 +10,9 @@
 ## Projects
 
 ## [Web Traffic Analysis and Forecasting](https://github.com/avashneu/Web-Traffic-Analysis-and-Forecasting---Time-Series)
+[*View Dashboard*](https://uoocum-avash-neupane.shinyapps.io/Web-Traffic-Analysis-and-Forcasting/) *(Wait 1-2 minutes to load)* <br/>
 *<ins>Category</ins>: Time Series Analysis, Data Visualization, Forecasting, ARIMA, R, RShiny, Feature Engineering, Dashboard*<br/>
-*<ins>Tools</ins>: R, RShiny*<br/>
-[*View Dashboard*](https://uoocum-avash-neupane.shinyapps.io/Web-Traffic-Analysis-and-Forcasting/) *(Wait 1-2 minutes to load)*
+*<ins>Tools</ins>: R, RShiny*
 
 -  Implemented multivariate time series forecasting to predict the web traffic density to provide insight into web traffic congestion and prevent unwanted outages.
 -  Performed exploratory data analysis, feature engineering to generate relevant features from 145,000 time series for 550 days

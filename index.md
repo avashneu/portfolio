@@ -3,8 +3,8 @@
 
 ## Skills
 - **Programming Languages:** Python, R, SQL, MATLAB
-- **Database, Analytics & Visualization:** MS SQL, MySQL, PostgreSQL, SQLite, Excel, Tableau
-- **Data Science and Machine Learning:** Numpy, Pandas, Matplotlib, Seaborn, Pytorch, Scikit-Learn, TensorFlow, Keras, OpenCV, RDKit, RShiny Dashboard
+- **Database, Analytics & Visualization:** MS SQL, MySQL, PostgreSQL, SQLite, Excel, Tableau, Rshiny
+- **Data Science and Machine Learning:** Numpy, Pandas, Matplotlib, Seaborn, Pytorch, Scikit-Learn, TensorFlow, Keras, OpenCV, RDKit
 - **Version Control:** Git
 
 ## Projects

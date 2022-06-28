@@ -23,8 +23,8 @@
 
 
 ## [Geometric Deep Learning Methods with Deep Chemistry for Drug Pair Interactions](https://github.com/avashneu/cse676project)
-*<ins>Category</ins>: Deep Learning, Autoencoders, Classification*<br/>
-*<ins>Tools</ins>: Python, Pytorch, RDKit*
+*<ins>Category</ins>: Deep Learning, Autoencoders, Feature Extraction, Classification, Drug-Drug Interaction (DDI)*<br/>
+*<ins>Tools</ins>: Python, Pytorch, RDKit, pandas, matplotlib,*
 
 - Developed a classifier model to solve drug-drug pair interaction outcomes from SMILES(Simplified Molecular Input Line Entry System) representation of drugs. 
 - Converted the SMILES structure to molecular structure image in a feature space of 270,000, built an autoencoder network to capture and preserve important features in a 90% reduced dimensional latent space for efficient computation.

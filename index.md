@@ -1,5 +1,5 @@
 ## Contact Details
-[Email Me](mailto::avash.neupane01@gmail.com) | [LinkedIn: Let's Connect](https://www.linkedin.com/in/avash-neupane/)
+[Email Me](mailto::avashneu@buffalo.edu) | [LinkedIn: Let's Connect](https://www.linkedin.com/in/avash-neupane/)
 
 ## Skills
 - **Programming Languages:** Python, R, SQL, MATLAB
